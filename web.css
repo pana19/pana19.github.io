@@ -1,0 +1,50 @@
+h1 {
+	color: blue;
+	text-align: center;
+	background-color: orange;
+	border: 2px solid black;
+	margin: 10px;
+	padding: 10px;
+}
+
+
+#web1, #web2, #web3 {
+	text-align: right;
+	margin: 20px;
+	padding: 10px;
+	font-size: 20px;
+}
+
+
+#gg_search {
+	border-radius: 25px;
+	border: 1px solid #ccc;
+	padding: 10px;
+	width: 350px;
+}
+
+input[type=text]{
+	display: inline-block;
+	width: 300px;
+	padding: 5px;
+	margin: 5px;
+  	border: 1px solid #ccc;
+}
+label {
+	display: inline-block;
+	width: 200px;
+}
+
+#advance_search {
+	background-color: blue;
+	color: white;
+	font-size: 15px;
+	width: 150px;
+	height: 30px;
+
+	position: fixed;
+	bottom: 180px;
+	left: 500px;
+	border: 1px solid black;
+
+}
